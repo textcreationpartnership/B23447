@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nothing without God. These are to give notice unto all persons, that this most renowned and approved Dutch doctor in many nations, was born in that great and famous city and University of Leyden in Holland is now come to this famous city of London ...</title>
+            <author>Gerardts, Gonsale.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23447</idno><idno type="EEBO-CITATION">99888656</idno>
+  <idno type="VID">195867</idno>
+  <idno type="EEBO-PROQUEST">2240903447</idno>
+  
+            <idno type="STC">Wing G537E</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[63]</idno>
+            <idno type="STC">ESTC R231454</idno>
+            <idno type="PROQUEST">ocm99888656</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888656e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23447)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195867)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[63])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nothing without God. These are to give notice unto all persons, that this most renowned and approved Dutch doctor in many nations, was born in that great and famous city and University of Leyden in Holland is now come to this famous city of London ...</title>
+                  <author>Gerardts, Gonsale.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Title taken from caption and first lines of text.</note>
+                  <note>With a large coat of arms with the inscription: "HONI SOIT QVI MAL Y PENSE".</note>
+                  <note>Imperfect: closely cropped with some loss of text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:195867:1"/>
+            <pb facs="tcp:195867:1"/>
+            <head>NOTHING WITHOUT GOD</head>
+            <head type="illustration">
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+               </figure>
+            </head>
+            <p>THese are to give Notice unto all Persons, that this most Renowned and approved <hi>Dutch</hi> Do<g ref="char:EOLhyphen"/>ctor in many Nations, was born in that great and Famous City and University of <hi>Leyden</hi> in <hi>Holland</hi> Is now come to this Famous City of <hi>London,</hi> through the perswasion of many Emi<g ref="char:EOLhyphen"/>nent Persons, that knew in what great Credit he lived in <hi>Holland,</hi> for the Cure of all Venereal Di<g ref="char:EOLhyphen"/>stempers and Reliques thereof, hath been informed that thousands of People have been destroyed with these Diseases following. As curing the Running of the Reins, pain in making Water; In a short time, he cureth Carnosite, Ulcers, Cancers, Buboes, or Swelling in the Groin, this Disease hath several Symptoms, for sometimes it will lie with great pains in the Head, Arms, Shoulders, Legs, Sore. Throats, Ulcers in the Mouth or Pallat, as Scabs, Pustulaes, or Breakings out in the Head, Face or Neck, Nodes or Knots on the Shin-bone, by which many Families are ruined, sometimes it will break their rest after they are warm in their Bed with violent pains. I do Cure it with all its atten<g ref="char:EOLhyphen"/>dants, so private and so secret by Ten or Fifteen Doses without hindering their business, all Venereal Distempers or Reliques; that a Man shall not perceived it by his Wife, nor the Wife by her Husband, and so perfectly that it shall never break out again, and none of their Relations shall take any notice of their Distempers to the admiration of the Patient: He is a Person of that Quality, that will not promise more than he can perform; he will undertake none unless he can Cure them.</p>
+            <pb facs="tcp:195867:2"/>
+            <p>HE will restore them again to their former health by pleasant safe Cordial Medicines, in which i<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no danger, that kills the Poyson of the Pox in the Blood, without Fluxing or making Sic<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> this is sufficient for such as love their Health, although they have been Sweated, Fluxed, and Lance<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by others, I shall confirm by actions, as I relate here by words.</p>
+            <p>I Do also help such as have lost their Seed, and make the Spirit of Married people rejoyce, bein<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lost by what occasion soever, and cause them to be as Sprightly as ever, this I can testifie by <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great many here in this Town.</p>
+            <p>I Could mention many more Effects and Operations tha<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I have done; but for brevity sake, an<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not to trouble the Reader too much, I have omitted them, being you may have my Advice at a<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> times for nothing, and be informed of many Cures more, not mentioned here; as I can make appe<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> by the Testimonies of several in this Town. As also in <hi>Germany, Hamburgh, Bremen, Paris,</hi> whe<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I have been Three years a Practitioner at the Kings Hospital, and got there great Experience in th<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Practice of the <hi>French</hi> Pox, and several other Diseases; as a rare secret in Consumptions, Fever<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and Fistulaes. I also cure any manner of Gout, let the humour be what it will, I presently give eas<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> I can dissolve the Stones either in Bladder, or Gravel in Kidneys. Therefore come unto me fo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your own good, and loose not this Bill, that you may not be attacht with the Vulgar here, I nee<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not here particularize, there being so many that can testifie it, that I have Cured, which were le<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by others. Neglect not your own Health, since God hath been pleased to send a means.</p>
+            <p>ANd if and one live not here, they need not upon that account miss my assistance, for I can sen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them such proper Medicines as they may Cure themselves.</p>
+            <p>ANd that the Learned and Experienced in the knowledges of Physick, and remedies may be satis<g ref="char:EOLunhyphen"/>fied with this present writing, I have thought fit to inform them, with what Medicaments <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> make (with Gods assistance) the Cures above-mentioned, that they may judge of their excellency▪ and afterwards perswade the publick to make use of them without fear, but with surety and advantag<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to their own health. These remedies are first a <hi>Mercury,</hi> sweet or cleansing, gentle, which the An<g ref="char:EOLunhyphen"/>cients have called the <hi>Celestial Eagle,</hi> for to express the virtue thereof, which I make of a <hi>Mercur<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> animated out of Sulphur, of Mars, of Antimony, and of Gold, whereof they take the qualities fo<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to produce all I have said of the <hi>French</hi> Pox and its incidents. The Second, is <hi>Panchymagogue,</hi>
+               <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vegetable made within all the rules of Chimistry. The Third, a cleansing <hi>Antimony,</hi> drawn ou<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of a potent Emetique, by a method rare and unknown. The Fourth, is a special <hi>Stomachique,</hi> o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an extract Stomachal of a virtue most particular. The Fifth, is <hi>Diuritick,</hi> which is a Water or Li<g ref="char:EOLunhyphen"/>quor upon which the Stomack, the Veins <hi>Mezaraique</hi> or Liver have no power. The Sixth, is th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Balsamum</hi> of the Lungs of our Fore-fathers, or Quintessence of Sulphur prepared with an unknow<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> method. The Seventh, is a <hi>Solaris Sudorifick</hi> of a new invention. The Eighth, is an <hi>Emetiqu<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> without violence, which cleanseth without Pain, or Griping, or any bad Symptome. All these reme<g ref="char:EOLunhyphen"/>dies are prepared by my Artists in <hi>London,</hi> which will justifie the goodness and experience of them▪ The Patient if he pleaseth, may have his Physick Galenically of me, as they like best.</p>
+            <p>HE Cureth all Persons that are Bursten Bellies or Ruptures, either in Men, Women, or Children▪ only with some outward Application, and all without pain or danger. I shall require nothing for my Counsel, Medicine, or Pains, till they have been cured half a year.</p>
+            <p>NO CURE NO MONEY.</p>
+            <p>ANd if any one cannot come, let him but send his true Water or Urine, and he gives his Judgmen<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the best of his skill wherewith God hath endued him.</p>
+            <p>☞ This <hi>Leydens Dutch</hi> Doctor, Oculist, Chirurgion, and Rupture Master , who liveth over a<g ref="char:EOLunhyphen"/>gainst the May-pole in the <hi>Strand,</hi> Six doors from <hi>Sommer set-house,</hi> is to be spoken with every day from Nine in the Morning till Nine at Night, where you will see Six Candles burning in a col<g ref="char:EOLhyphen"/>oured Flag Lanthorn of Orange, white and blew, with this Subscription under neath. <hi>Gonsal<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Gerardts,</hi> A <hi>Dutch</hi> Doctor, No Cure no Money. Which Lanthorn hangs between the <hi>Whit<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Flying Horse,</hi> an <hi>Habbadasher</hi> of Hats, and the <hi>Coffee</hi> Sign. Also these Printed Bills pasted <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the long Entry, where you may privately come in.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed with Allowance.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
